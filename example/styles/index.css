@@ -1,0 +1,7 @@
+/* ▼ Estilos generales */
+*{
+    padding: 0;/*quita los márgenes internos*/
+    margin: 0;/*quita los márgenes externos*/
+    box-sizing: border-box;/*mantiene el tamaño de la caja estable*/
+}
+    
